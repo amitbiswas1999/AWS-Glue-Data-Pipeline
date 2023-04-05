@@ -1,5 +1,7 @@
-###Project Architecture
-![Data flow diagram](./diagrams/Screenshot from 2023-04-05 10-26-35.png)
+### Project Architecture
+![Screenshot from 2023-04-05 10-26-35](https://user-images.githubusercontent.com/88819794/229986080-6b3dcfe8-ee73-4b41-b042-433d2d132e61.png)
+
+
 
 
 
