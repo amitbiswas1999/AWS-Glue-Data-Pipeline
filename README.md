@@ -1,3 +1,8 @@
+###Project Architecture
+![Data flow diagram](./diagrams/Screenshot from 2023-04-05 10-26-35.png)
+
+
+
 To create zip file for aws lambda function 
 
 use below commadn
